@@ -1,0 +1,10 @@
+* Machine Learning
+
+** Jupyter notebook
+
+   #+begin_src bash
+     conda activate
+     jupyter notebook
+   #+end_src
+   
+** Références
