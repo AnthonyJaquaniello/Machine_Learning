@@ -1,2 +1,3 @@
-# Ignore hidden directory.
+# Ignore directory.
 .ipynb_checkpoints/
+data/
