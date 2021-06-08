@@ -22,6 +22,6 @@ jupyter lab
    
 ## Références
 
-[Youtube - Machine Learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ)
-[scikit-learn - ML in Python](https://scikit-learn.org/stable/index.html)
+* [Youtube - Machine Learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ)
+* [scikit-learn - ML in Python](https://scikit-learn.org/stable/index.html)
 
